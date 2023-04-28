@@ -2,40 +2,25 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "中山大学",
-        "profession": "计算机科学与技术",
+        "name": "全家乐",
+        "description": "Stay Hungry, Stay Foolish.",
+        "school": "硕士：中国科学技术大学-软件工程  ",
+        "profession": "本科：湖南大学-信息安全",
         "sex": "男",
-        "education" : "本科",
-        "workage": "2012届毕业",
-        "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "education" : "找实习-可全职实习一年-月内到岗(2023-05-28-2024-07-01)",
+        "workage": "2025届毕业",
+        "phone": "17828790217",
+        "email": "jiale_quan@ustc.edu"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com",
+            "link": "https://github.com/HDqjl317",
             "icon": ""
         },
         {
             "type": "home",
-            "link": "https://github.com/Jayin",
+            "link": "https://jiale.love/",
             "icon": ""
         }
     ],
