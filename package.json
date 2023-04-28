@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jayin/resume.git"
+    "url": "git+https://github.com/HDqjl317/resume.git"
   },
-  "author": "Jayin Ton",
+  "author": "Jiale_Quan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jayin/resume/issues"
+    "url": "https://github.com/HDqjl317/resume/issues"
   },
-  "homepage": "https://github.com/Jayin/resume#readme",
+  "homepage": "https://github.com/HDqjl317/resume#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-less": "^3.0.3",
