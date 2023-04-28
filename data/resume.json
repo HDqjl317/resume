@@ -46,47 +46,47 @@
     ],
     "socialExperiences": [
         {
-            "name": "* 能够用C++和Golang完成编程开发，对Rust有基本的了解并能进行初级开发，偶尔使用Python。",
+            "name": "1.能够用C++和Golang完成编程开发，对Rust有基本的了解并能进行初级开发，偶尔使用Python。",
             "name_link": "",
             "description": ""
         },
         {
-            "name": "* 熟练掌握Linux操作系统，如Ubuntu、Kali，对Linux进程调度机制有较为深入的了解，曾经对Linux 0.11进程调度进行过学习。",
+            "name": "2.熟练掌握Linux操作系统，如Ubuntu、Kali，对Linux进程调度机制有较为深入的了解，曾经对Linux 0.11进程调度进行过学习。",
             "name_link": "",
             "description": ""
 	},
 	{
-            "name": "* 熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。",
+            "name": "3.熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。",
             "name_link": "",
             "description": ""
         },
 	{
-            "name": "* 能够使用 golang 常用的后端开发框架 Gin 和 Gorm 独立进行 Web 后端开发。",
+            "name": "4.能够使用 golang 常用的后端开发框架 Gin 和 Gorm 独立进行 Web 后端开发。",
             "name_link": "",
             "description": ""
         },
 	 {
-            "name": "* 熟练使用 MySQL 数据库，了解 Redis 缓存数据库，熟悉主从复制架构，有过实际的简单配置经验。",
+            "name": "5.熟练使用 MySQL 数据库，了解 Redis 缓存数据库，熟悉主从复制架构，有过实际的简单配置经验。",
             "name_link": "",
             "description": ""
         },  
 	{
-            "name": "* 熟悉常用的设计模式，例如单例模式、工厂模式、策略模式等，会根据需求考虑使用合适的设计模式完成开发。",
+            "name": "6.熟悉常用的设计模式，例如单例模式、工厂模式、策略模式等，会根据需求考虑使用合适的设计模式完成开发。",
             "name_link": "https://github.com/HDqjl317/go-design-pattern",
             "description": ""
         },
 	{
-            "name": "* 熟悉常见的网络安全攻击方式和防御措施，例如 XSS、CSRF、SQL 注入等，掌握密码学基础知识，独自完成DES算法，写过简单的蠕虫病毒",
+            "name": "7.熟悉常见的网络安全攻击方式和防御措施，例如 XSS、CSRF、SQL 注入等，掌握密码学基础知识，独自完成DES算法，写过简单的蠕虫病毒",
             "name_link": "",
             "description": ""
         },
 	{
-            "name": "* 用过AFL和Fuzz进行过模糊测试，用过相关安全工具如Wireshark，BurpSuite。",
+            "name": "8.用过AFL和Fuzz进行过模糊测试，用过相关安全工具如Wireshark，BurpSuite。",
             "name_link": "",
             "description": ""
         },
 	{
-            "name": "* 掌握常见的汇编语言，如AT&T格式的X86汇编代码，能够进行简单的阅读和理解。阅读过usosII任务管理和中断部分源码。",
+            "name": "9.掌握常见的汇编语言，如AT&T格式的X86汇编代码，能够进行简单的阅读和理解。阅读过usosII任务管理和中断部分源码。",
             "name_link": "",
             "description": ""
         }
@@ -136,7 +136,7 @@
             "description": "编写C宏到Rust宏的源码到源码转换规则，使⽤已有的C语法(⽐如字符串，输出函数，或者定义相应的结构体)，保存C源代码中的宏代码，以此来骗过预处理器和编译器。将这些保存的信息单独完成C宏到Rust宏的转换，直接将得到的Rust宏插⼊到转换得到的Rust代码中。",
             "time": "2023.01 - 至今",
             "location": ""
-        },
+        }
     ],
     "ProjectExperience": [
         {
