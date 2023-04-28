@@ -46,65 +46,97 @@
     ],
     "socialExperiences": [
         {
-            "name": "·能够用C++和Golang完成编程开发，对Rust有基本的了解并能进行初级开发，偶尔使用Python。",
+            "name": "* 能够用C++和Golang完成编程开发，对Rust有基本的了解并能进行初级开发，偶尔使用Python。",
             "name_link": "",
             "description": ""
         },
         {
-            "name": "·熟练掌握Linux操作系统，对Linux进程调度机制有较为深入的了解，曾经对Linux 0.11进程调度进行过学习和实践。",
+            "name": "* 熟练掌握Linux操作系统，如Ubuntu、Kali，对Linux进程调度机制有较为深入的了解，曾经对Linux 0.11进程调度进行过学习。",
             "name_link": "",
             "description": ""
 	},
 	{
-            "name": "·熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。",
+            "name": "* 熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。",
             "name_link": "",
             "description": ""
         },
 	{
-            "name": "·能够使用 golang 常用的后端开发框架 Gin 和 Gorm 独立进行 Web 后端开发。",
+            "name": "* 能够使用 golang 常用的后端开发框架 Gin 和 Gorm 独立进行 Web 后端开发。",
             "name_link": "",
             "description": ""
         },
 	 {
-            "name": "·熟练使用 MySQL 数据库，了解 Redis 缓存数据库，熟悉主从复制架构，有过实际的简单配置经验。",
+            "name": "* 熟练使用 MySQL 数据库，了解 Redis 缓存数据库，熟悉主从复制架构，有过实际的简单配置经验。",
             "name_link": "",
             "description": ""
         },  
 	{
-            "name": "·熟悉常用的设计模式，例如单例模式、工厂模式、策略模式等，会根据需求考虑使用合适的设计模式完成开发。",
+            "name": "* 熟悉常用的设计模式，例如单例模式、工厂模式、策略模式等，会根据需求考虑使用合适的设计模式完成开发。",
+            "name_link": "https://github.com/HDqjl317/go-design-pattern",
+            "description": ""
+        },
+	{
+            "name": "* 熟悉常见的网络安全攻击方式和防御措施，例如 XSS、CSRF、SQL 注入等，掌握密码学基础知识，独自完成DES算法，写过简单的蠕虫病毒",
             "name_link": "",
             "description": ""
         },
 	{
-            "name": "·熟悉常见的网络安全攻击方式和防御措施，例如 XSS、CSRF、SQL 注入等，掌握密码学基础知识，独自完成DES算法。",
+            "name": "* 用过AFL和Fuzz进行过模糊测试，用过相关安全工具如Wireshark，BurpSuite。",
             "name_link": "",
             "description": ""
         },
 	{
-            "name": "·掌握常见的汇编语言，如AT&T格式的X86汇编代码，能够进行简单的阅读和理解。",
+            "name": "* 掌握常见的汇编语言，如AT&T格式的X86汇编代码，能够进行简单的阅读和理解。阅读过usosII任务管理和中断部分源码。",
             "name_link": "",
             "description": ""
         }
     ],
     "InternExperiences": [
         {
-            "name": "深圳XX网络科技有限公司",
+            "name": "抗呈现攻击人脸识别系统（Python）",
             "name_link": "",
-            "title": "前端开发工程师",
+            "title": "毕业设计项目(源码保密不公开)",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2019.04 - 2019.09",
+            "description": "采用基于卷积神经网络的一个称为FaceBagNet的多流CNN架构来训练得到一个活体检测模型，该活体检测模型能够达到95.6%的正确率。利用ResNet34识别模型，自己通过设计相关类和函数来利用Dlib检测器、预测器和识别器采集摄像头人脸图像，设计了一个人脸录入系统和具有活体检测能力的非交互式人脸识别系统，采用目标跟踪技术、质心追踪算法提高了整个系统运行时活体检测和人脸识别时的运行速度。",
+            "time": "2021.11 - 2022.04",
+            "location": " "
+        },
+	{
+            "name": "WebServer（C）",
+            "name_link": "",
+            "title": "Linux下C++轻量级Web服务器",
+            "icon": "",
+            "description": "阅读游双<<Linux高性能服务器编程>>一书,项目中使用线程池、非阻塞socket、epoll、Reactor和Proactor模拟事件处理，实现同步/异步日志系统，记录服务器运行状态，完成一个简单的用户注册登录功能。",
+            "time": "2022.06 - 2022.09",
+            "location": " "
+        },
+	{
+            "name": "jialecache(Golang)",
+            "name_link": "https://github.com/HDqjl317/jialecache",
+            "title": "一个简易的分布式缓存系统",
+            "icon": "",
+            "description": "本系统实现了最近最少访问缓存策略（LRU，Least Recently Used）来解决资源限制问题；实现了基于HTTP的分布式缓存和单机缓存，给用户提供了自定义数据源的回调函数；使用锁机制防止缓存击穿；使用一致性哈希算法选择远程节点，实现负载均衡。",
+            "time": "2023.02 - 2023.03",
             "location": "广东 深圳"
         },
-        {
-            "name": "深圳XXX网络科技有限公司",
-            "name_link": "",
-            "title": "PHP开发工程师",
+	{
+            "name": "jlrpc（Golang）",
+            "name_link": "https://github.com/HDqjl317/jlrpc",
+            "title": "基于golang 标准库 net/rpc 实现的rpc框架",
             "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2020.07 - 2020.08",
-            "location": "广东 深圳"
-        }
+            "description": "jlrpc依据Go语言官方标准库net/rpc，新增了协议交换、服务发现、负载均衡、超时处理、注册中心等特性，jlrpc中部分实现并未进行严格处理，仅突出功能思想的大体实现，后续再做重构。使用 encoding/gob 实现消息的编解码(序列化与反序列化)；实现了一个支持异步和并发的高性能客户端；通过反射实现服务注册功能；增加连接超时、服务端处理超时的处理机制；支持 HTTP 协议并基于 HTTP 实现一个简单的 Debug 页面；通过随机选择和 Round Robin 轮询调度算法实现服务端负载均衡；实现一个简单的注册中心，支持服务注册、接收心跳等功能；客户端实现基于注册中心的服务发现机制。",
+            "time": "2022.03 - 2022.04",
+            "location": ""
+        },
+	{
+            "name": "c2rust宏指令转化(C/Rust)",
+            "name_link": "",
+            "title": "基于c2rust工具增加宏指令转化功能",
+            "icon": "",
+            "description": "编写C宏到Rust宏的源码到源码转换规则，使⽤已有的C语法(⽐如字符串，输出函数，或者定义相应的结构体)，保存C源代码中的宏代码，以此来骗过预处理器和编译器。将这些保存的信息单独完成C宏到Rust宏的转换，直接将得到的Rust宏插⼊到转换得到的Rust代码中。",
+            "time": "2023.01 - 至今",
+            "location": ""
+        },
     ],
     "ProjectExperience": [
         {
