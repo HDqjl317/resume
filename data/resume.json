@@ -26,31 +26,28 @@
     ],
     "Awards": [
         {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "硕士    中国科学技术大学    软件工程    2022.09.01——至今"
+        },
+		{
+            "name": "主修课程：实时系统设计、嵌入式系统设计、系统建模与分析、EDA技术、嵌入式Linux、Linux操作系统分析、形式化方法"
         },
         {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "本科    湖南大学           信息安全    2018.09.01-2022.06.14"
         },
         {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "201X百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
+            "name": "主修课程：数据结构与算法分析、C++程序设计、计算机体系结构（csapp）、操作系统、计算机网络、数据库设计、离散数学、网络安全、密码学、软件安全"
         }
     ],
     "socialExperiences": [
         {
             "name": "加入XX移动开发工作室",
             "name_link": "https://github.com/Jayin",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，轻会议等多款产品"
         },
         {
             "name": "组织X次校内开发者交流会",
             "name_link": "https://github.com/Jayin",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+            "description": "受Ruby China Conf启发，自行组织了3次交流会"
         }
     ],
     "InternExperiences": [
@@ -60,7 +57,7 @@
             "title": "前端开发工程师",
             "icon": "",
             "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
+            "time": "2019.04 - 2019.09",
             "location": "广东 深圳"
         },
         {
@@ -69,7 +66,7 @@
             "title": "PHP开发工程师",
             "icon": "",
             "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
+            "time": "2020.07 - 2020.08",
             "location": "广东 江门"
         }
     ],
@@ -79,8 +76,8 @@
             "name_link": "https://github.com/Jayin",
             "title": "Android App, 作者",
             "icon": "",
-            "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
+            "description": "大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
+            "time": "2021.07 - 至今",
             "location": ""
         },
         {
@@ -89,7 +86,7 @@
             "title": "Android App/PHP后端, 项目负责人",
             "icon": "",
             "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
+            "time": "2021.08 - 2021.12",
             "location": ""
         },
         {
@@ -98,11 +95,11 @@
             "title": "JavaScript, forker",
             "icon": "",
             "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
+            "time": "2022.10 - 至今",
             "location": ""
         },
         {
-            "name": "更多",
+            "name": "我的博客",
             "name_link": "https://jiale.love",
             "title": "",
             "icon": "",
