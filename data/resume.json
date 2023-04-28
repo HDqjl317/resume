@@ -24,7 +24,7 @@
             "icon": ""
         }
     ],
-    "Awards": [
+    "ProjectExperience": [
         {
 	    "name": "硕士：中国科学技术大学",
             "name_link": "",
@@ -76,33 +76,9 @@
             "location": "广东 深圳"
         }
     ],
-    "ProjectExperience": [
+    "Awards": [
         {
-            "name": "XTips",
-            "name_link": "https://github.com/Jayin",
-            "title": "Android App, 作者",
-            "icon": "",
-            "description": "大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2021.07 - 至今",
-            "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2022.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "我的博客",
-            "name_link": "https://jiale.love",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
+            "name": "我的博客https://jiale.love",
         }
     ]
 }
