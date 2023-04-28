@@ -24,13 +24,13 @@
             "icon": ""
         }
     ],
-    "ProjectExperience": [
+    "Awards": [
         {
 	    "name": "硕士：中国科学技术大学",
             "name_link": "",
             "title": "软件工程专业",
             "icon": "",
-            "description": "主修课程： 实时系统设计、嵌入式系统设计、系统建模与分析、EDA技术、嵌入式Linux、Linux操作系统分析、形式化方法",
+            "description": "主修课程： 实时系统设计、嵌入式系统设计、系统建模与分析、EDA技术、嵌入式Linux、Linux操作系统分析、形式化方法、算法设计与分析",
             "time": "2022.09.01-至今",
             "location": "安徽合肥"
 	},
@@ -76,9 +76,34 @@
             "location": "广东 深圳"
         }
     ],
-    "Awards": [
+    "ProjectExperience": [
+    "ProjectExperience": [
         {
-            "name": "我的博客https://jiale.love",
+            "name": "XTips",
+            "name_link": "https://github.com/Jayin",
+            "title": "Android App, 作者",
+            "icon": "",
+            "description": "大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
+            "time": "2021.07 - 至今",
+            "location": ""
+        },
+        {
+            "name": "silentor",
+            "name_link": "https://github.com/Jayin/silentor",
+            "title": "JavaScript, forker",
+            "icon": "",
+            "description": "纯前端，基于markdown的博客",
+            "time": "2022.10 - 至今",
+            "location": ""
+        },
+        {
+            "name": "我的博客",
+            "name_link": "https://jiale.love",
+            "title": "",
+            "icon": "",
+            "description": "",
+            "time": "",
+            "location": ""
         }
     ]
 }
