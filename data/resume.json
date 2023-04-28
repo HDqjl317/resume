@@ -46,37 +46,37 @@
     ],
     "socialExperiences": [
         {
-            "name": "·能够用C++和Golang完成编程开发，对Rust有基本的了解并能进行初级开发，偶尔使用Python",
+            "name": "·能够用C++和Golang完成编程开发，对Rust有基本的了解并能进行初级开发，偶尔使用Python。",
             "name_link": "",
             "description": ""
         },
         {
-            "name": "·熟练掌握Linux操作系统，对Linux进程调度机制有较为深入的了解，曾经对Linux 0.11进程调度进行过学习和实践",
+            "name": "·熟练掌握Linux操作系统，对Linux进程调度机制有较为深入的了解，曾经对Linux 0.11进程调度进行过学习和实践。",
             "name_link": "",
             "description": ""
 	},
 	{
-            "name": "·熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中",
+            "name": "·熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。",
             "name_link": "",
             "description": ""
         },
 	{
-            "name": "·能够使用 golang 常用的后端开发框架 Gin 和 Gorm 独立进行 Web 后端开发",
+            "name": "·能够使用 golang 常用的后端开发框架 Gin 和 Gorm 独立进行 Web 后端开发。",
             "name_link": "",
             "description": ""
         },
 	 {
-            "name": "·熟练使用 MySQL 数据库，了解 Redis 缓存数据库，熟悉主从复制架构，有过实际的简单配置经验",
+            "name": "·熟练使用 MySQL 数据库，了解 Redis 缓存数据库，熟悉主从复制架构，有过实际的简单配置经验。",
             "name_link": "",
             "description": ""
         },  
 	{
-            "name": "·熟悉常用的设计模式，例如单例模式、工厂模式、策略模式等，会根据需求考虑使用合适的设计模式完成开发",
+            "name": "·熟悉常用的设计模式，例如单例模式、工厂模式、策略模式等，会根据需求考虑使用合适的设计模式完成开发。",
             "name_link": "",
             "description": ""
         },
 	{
-            "name": "·熟悉常见的网络安全攻击方式和防御措施，例如 XSS、CSRF、SQL 注入等，掌握密码学基础知识，独自完成DES算法",
+            "name": "·熟悉常见的网络安全攻击方式和防御措施，例如 XSS、CSRF、SQL 注入等，掌握密码学基础知识，独自完成DES算法。",
             "name_link": "",
             "description": ""
         },
@@ -108,7 +108,7 @@
     ],
     "ProjectExperience": [
         {
-            "name": "获得CET-6、CET-4证书，具备良好的英文文献阅读能力",
+            "name": "获得CET-6、CET-4证书，具备良好的英文文献阅读能力。",
             "name_link": "",
             "title": "",
             "icon": "",
@@ -117,7 +117,7 @@
             "location": ""
         },
 	{
-            "name": "本科就学期间曾获得学校的<<单项奖学金>>",
+            "name": "本科就学期间曾获得学校的<<单项奖学金>>。",
             "name_link": "",
             "title": "",
             "icon": "",
