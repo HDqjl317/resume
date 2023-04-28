@@ -108,21 +108,39 @@
     ],
     "ProjectExperience": [
         {
-            "name": "XTips",
-            "name_link": "https://github.com/Jayin",
-            "title": "Android App, 作者",
+            "name": "获得CET-6、CET-4证书，具备良好的英文文献阅读能力",
+            "name_link": "",
+            "title": "",
             "icon": "",
-            "description": "大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2021.07 - 至今",
+            "description": "",
+            "time": "",
+            "location": ""
+        },
+	{
+            "name": "本科就学期间曾获得学校的<<单项奖学金>>",
+            "name_link": "",
+            "title": "",
+            "icon": "",
+            "description": "",
+            "time": "",
+            "location": ""
+        },
+	{
+            "name": "我性格热情开朗，注重团队合作，并愿意不断学习新知识并将其应用于工作中。具备良好的抗压能力和强烈的责任感，始终保持热爱技术的初心，并且持续追求自我提高。在闲暇时间，我喜欢写个人博客记录学习心得，并逛各大技术社区关注相关技术的最新动态。同时，我也热衷于阅读相关技术书籍来扩展自己的技术视野。",
+            "name_link": "",
+            "title": "",
+            "icon": "",
+            "description": "",
+            "time": "",
             "location": ""
         },
         {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
+            "name": "我的github",
+            "name_link": "https://github.com/HDqjl317",
+            "title": "",
             "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2022.10 - 至今",
+            "description": "",
+            "time": "",
             "location": ""
         },
         {
