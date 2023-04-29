@@ -56,7 +56,7 @@
             "description": ""
 	},
 	{
-            "name": "3.熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。",
+            "name": "3.熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。熟悉Golang的并发编程，掌握Go协程、channel、锁等基本概念和使用方法",
             "name_link": "",
             "description": ""
         },
