@@ -81,7 +81,7 @@
             "description": ""
         },
 	{
-            "name": "8.用过AFL和Fuzz进行过模糊测试，用过相关安全工具如Wireshark、BurpSuite。",
+            "name": "8.用过AFL进行过模糊测试，清楚Fuzzing流程，用过相关安全工具如Wireshark、BurpSuite。",
             "name_link": "",
             "description": ""
         },
