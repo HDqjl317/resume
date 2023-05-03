@@ -9,7 +9,7 @@
         "sex": "男",
         "education" : "23岁  在校研究生",
         "workage": "2025届毕业",
-        "phone": "17828790217",
+        "phone": "jiale_quan@163.com",
         "email": "jiale_quan@ustc.edu"
     },
     "social":[
@@ -56,7 +56,7 @@
             "description": ""
 	},
 	{
-            "name": "3.熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。熟悉Golang的并发编程，掌握Go协程、channel、锁等基本概念和使用方法，对Golang内存分配机制和垃圾回收机制有一定了解。",
+            "name": "3.熟练掌握 Socket 网络编程，熟悉 TCP/IP、HTTP 等常用网络协议， 能将select、epoll 等多路 IO 复用模型应用于实际开发中。",
             "name_link": "",
             "description": ""
         },
@@ -66,7 +66,7 @@
             "description": ""
         },
 	 {
-            "name": "5.熟练使用 MySQL 数据库，了解 Redis 缓存数据库，了解主从复制架构，有过实际的简单配置经验。",
+            "name": "5.熟练使用 MySQL 数据库，了解 Redis 缓存数据库，了解Mysql主从复制架构，有过实际的简单配置经验。",
             "name_link": "",
             "description": ""
         },  
