@@ -4,10 +4,10 @@
     "basicinfo": {
         "name": "全家乐",
         "description": "Stay Hungry, Stay Foolish.",
-        "school": "找实习-可全职实习一年-月内到岗(2023.05.28-2024.07.01)",
+        "school": "分布式系统软件架构师",
         "profession": "",
         "sex": "男",
-        "education" : "23岁  在校研究生",
+        "education" : "硕士研究生",
         "workage": "2025届毕业",
         "phone": "jiale_quan@163.com",
         "email": "jiale_quan@ustc.edu"
@@ -20,7 +20,7 @@
         },
         {
             "type": "home",
-            "link": "https://jiale.love/",
+            "link": "https://hdqjl317.github.io/",
             "icon": ""
         }
     ],
@@ -31,7 +31,7 @@
             "title": "软件工程专业",
             "icon": "",
             "description": "主修课程： 实时系统设计、嵌入式系统设计、系统建模与分析、EDA技术、嵌入式Linux、Linux操作系统分析、形式化方法",
-            "time": "2022.09.01-至今",
+            "time": "2022.09.01-2025.06.18",
             "location": "安徽合肥"
 	},
 	{
@@ -177,7 +177,7 @@
         },
         {
             "name": "我的博客",
-            "name_link": "https://jiale.love",
+            "name_link": "https://hdqjl317.github.io",
             "title": "",
             "icon": "",
             "description": "",
